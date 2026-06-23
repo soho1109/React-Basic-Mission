@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import ProductCard from './components/ProductCard';
 import './App.css'
 
